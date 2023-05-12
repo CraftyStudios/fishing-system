@@ -1,4 +1,4 @@
-package me.yourname.pluginname.utils;
+package me.Incbom.fishingsystem.utils;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

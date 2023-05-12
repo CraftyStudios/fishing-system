@@ -12,9 +12,9 @@
         <plugins.dir>${project.basedir}/out</plugins.dir>   <!-- default output dir -->
     </properties>
 
-    <groupId>YOURNAME</groupId>
-    <artifactId>PLUGINNAME</artifactId>
-    <version>VERSION</version>
+    <groupId>Incbom</groupId>
+    <artifactId>Fishing-System</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
 
     <repositories>
         <repository>
